@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyushj&label=Profile%20views&color=0e75b6&style=flat" alt="pyushj" /> </p>
 
 - 🔭 I’m currently working on Blockchain Project
-- 🌱 I've 2+ months of professional experience worked at Samsung Research and Development Institite Bangalore and contributed to two projects on Blockchain
+- 🌱 I've 2+ months of professional experience. Worked at Samsung Research and Development Institute Bangalore and contributed to two projects on Blockchain Tehonology.
 - 👯 I’m looking to collaborate on Blockchain and Web Dev Projects
 
 - 💬 Ask me about **Node,Express**
