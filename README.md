@@ -7,7 +7,7 @@
 - 🌱 I've 1.5+ years of professional experience. Working at Samsung Research and Development Institute Bangalore and contributed to <a href="https://www.samsung.com/us/support/owners/app/samsung-blockchain">Samsung Blockchain Wallet</a>
 - 👯 I’m looking to collaborate on Blockchain, Android and Java projects.
 
-- 💬 Ask me about **Node,Express**
+- 💬 Ask me about **Blockchain, Android, Java, Spring**
 
 - 📫 How to reach me **pyushj078@gmail.com**
 
